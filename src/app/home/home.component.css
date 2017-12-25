@@ -46,6 +46,8 @@ input.btn {
 }
 
 .info {
+  background: #003a61;
+  padding: 0.5em 1em;
   font-weight: bold;
   cursor: pointer;
   display: inline;
@@ -53,21 +55,11 @@ input.btn {
 }
 
 .del {
+  background: #CC3648;
+  padding: 0.5em 1em;
   font-weight: bold;
   cursor: pointer;
   display: inline;
   text-align: center;
-}
-
-.cen {
-  margin: auto;
-  background: #003a61;
-  padding: 0.5em 1em;
-}
-
-.cen1 {
-  margin: auto;
-  background: #CC3648;
-  padding: 0.5em 1em;
 }
 
